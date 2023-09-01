@@ -1,0 +1,67 @@
+
+/* Style your interface here */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Heading styles */
+h1 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* List styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Room list styles */
+#available-rooms li {
+    margin-bottom: 10px;
+}
+
+#available-rooms button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* User bookings list styles */
+#user-bookings li {
+    margin-bottom: 10px;
+}
+
+#user-bookings button {
+    background-color: #FF5722;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Button hover styles */
+button:hover {
+    opacity: 0.8;
+}
