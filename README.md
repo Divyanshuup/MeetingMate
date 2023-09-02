@@ -24,6 +24,9 @@ Usage -
 
 1)On the homepage, you'll see a list of available meeting rooms. Click the "Book" button next to a room to make a reservation.
 
+The link to run the code on codepen-
+https://codepen.io/divyanshu-123/pen/poqbVWx
+
 2)Follow the prompts to select a time slot and confirm your booking.
 
 3)To view your bookings, click on the "Your Bookings" section.
